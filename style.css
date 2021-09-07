@@ -1,0 +1,35 @@
+
+.container{
+    background:rgb(59, 58, 58);
+    border: 0px solid red;
+}
+.row{
+    border: 0px solid green;
+}
+.menu1{
+    border: 0px solid orange;
+    text-align: center;
+    
+}
+.s1{
+    border: 0px solid red;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bolder;
+    color: red;
+    margin: 0;
+}
+#main{
+    background-color: rgb(17, 175, 238);
+}
+.fa-coustmise{
+    font-size: 180px;
+    text-align: center;
+}
+.fa-main{
+    font-size: 120px;
+    color: red;
+}
+.fa-dum{
+    font-size: 120px;
+}
